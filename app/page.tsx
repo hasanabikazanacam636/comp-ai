@@ -52,14 +52,14 @@ export default function Home() {
       <header className="border-b border-white/5 bg-[#0b1628]/90">
         <div className="mx-auto flex h-20 max-w-[1500px] items-center justify-between px-6 lg:px-10">
           <div>
-            <h1 className="text-2xl font-bold tracking-tight">Comp AI</h1>
+            <h1 className="text-2xl font-bold tracking-tight">Claser Comp Maker</h1>
             <p className="text-xs font-medium tracking-[0.25em] text-cyan-400">
               POWERED BY CLASER
             </p>
           </div>
 
           <div className="hidden rounded-full border border-white/10 bg-[#111e33] px-5 py-2 text-sm text-slate-300 md:block">
-            AI Football Comp Maker
+            Claser Comp Maker
           </div>
         </div>
       </header>
